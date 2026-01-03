@@ -1,0 +1,6 @@
+Exercise 1-11. How would you test the word count program? What kinds of input are most likely to uncover bugs if there are any?
+
+Answer: To test the word count program, I would use a variety of input cases, especially boundary and unusual cases.
+These include empty input, input containing only blanks, tabs or newlines, input with multiple consecutive spaces, tabs and newlines between words, input with leading and trailing whitespace, and input with a single word or a single character.
+I would also test normal text with words separated by spaces, tabs, and newlines to ensure the program correctly counts words.
+These cases are most likely to reveal bugs related to word boundaries and state transitions between inside and outside a word.
