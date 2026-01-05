@@ -1,9 +1,16 @@
-#include <stdio.h>
-
 /*
+ * File name:   exercise_1_3.c
+ * Author:      Huy Luong Duc <huyluongme.cs@gmail.com>
+ * Date:        02-Jan-2025
+ *
+ * [SECOND EDITION] The C Programming Language
+ * by Brian W.Kernighan and Dennis M.Ritchie
+ *
  * Exercise 1-3. Modify the temperature conversion program
  * to print a heading above the table
  */
+
+#include <stdio.h>
 
 /* print Fahrenheit-Celsius talbe
     for fahr = 0, 20, ..., 300 */

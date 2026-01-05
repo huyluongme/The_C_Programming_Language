@@ -1,9 +1,16 @@
-#include <stdio.h>
-
 /*
+ * File name:   exercise_1_4.c
+ * Author:      Huy Luong Duc <huyluongme.cs@gmail.com>
+ * Date:        02-Jan-2025
+ *
+ * [SECOND EDITION] The C Programming Language
+ * by Brian W.Kernighan and Dennis M.Ritchie
+ *
  * Exercise 1-4. Write a program to print 
  * the corresponding Celsiue to Fahrenheit table
  */
+
+#include <stdio.h>
 
 int main()
 {

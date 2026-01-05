@@ -1,4 +1,11 @@
 /*
+ * File name:   exercise_1_2.c
+ * Author:      Huy Luong Duc <huyluongme.cs@gmail.com>
+ * Date:        02-Jan-2025
+ *
+ * [SECOND EDITION] The C Programming Language
+ * by Brian W.Kernighan and Dennis M.Ritchie
+ *
  * Exercise 1-2. Experiment to find out what happens when printf's argument string contains \c,
  * where c is some character not listed above.
  */

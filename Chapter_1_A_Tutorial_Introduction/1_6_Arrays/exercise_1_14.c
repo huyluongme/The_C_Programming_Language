@@ -1,7 +1,17 @@
+/*
+ * File name:   exercise_1_14.c
+ * Author:      Huy Luong Duc <huyluongme.cs@gmail.com>
+ * Date:        04-Jan-2025
+ *
+ * [SECOND EDITION] The C Programming Language
+ * by Brian W.Kernighan and Dennis M.Ritchie
+ *
+ * Exercise 1-14. Write a program to print a histogram of
+ * the frequencies of different characters in its input.
+ */
+
 #include <stdio.h>
 
-/* Exercise 1-14. Write a program to print a histogram of 
-    the frequencies of different characters in its input. */
 #define ASCII_MAX   128
 
 int main()

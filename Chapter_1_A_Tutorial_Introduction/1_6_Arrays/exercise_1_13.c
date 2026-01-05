@@ -1,12 +1,22 @@
+/*
+ * File name:   exercise_1_13.c
+ * Author:      Huy Luong Duc <huyluongme.cs@gmail.com>
+ * Date:        04-Jan-2025
+ *
+ * [SECOND EDITION] The C Programming Language
+ * by Brian W.Kernighan and Dennis M.Ritchie
+ *
+ * Exercise 1-13. Write a program to print a histogram of the lengths of word in
+ * its input. It is easy to draw the histogram with the bars horizontal; a vertial
+ * orientations is more challenging.
+ */
+
 #include <stdio.h>
 
 #define MAX_WORD    100
 #define IN          1
 #define OUT         0
 
-/* Exercise 1-13. Write a program to print a histogram of the lengths of word in
-    its input. It is easy to draw the histogram with the bars horizontal; a vertial
-    orientations is more challenging. */
 int main()
 {
     int c, i, j, max_len, nw, state, w_lens[MAX_WORD];

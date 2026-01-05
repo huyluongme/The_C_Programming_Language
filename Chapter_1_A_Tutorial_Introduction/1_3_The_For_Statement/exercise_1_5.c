@@ -1,3 +1,15 @@
+/*
+ * File name:   exercise_1_5.c
+ * Author:      Huy Luong Duc <huyluongme.cs@gmail.com>
+ * Date:        03-Jan-2025
+ *
+ * [SECOND EDITION] The C Programming Language
+ * by Brian W.Kernighan and Dennis M.Ritchie
+ *
+ * Exercise 1-5. Modify the temperature conversion program
+ * to print the table in reverse order, from 300 degrees to 0.
+ */
+
 #include <stdio.h>
 
 int main()

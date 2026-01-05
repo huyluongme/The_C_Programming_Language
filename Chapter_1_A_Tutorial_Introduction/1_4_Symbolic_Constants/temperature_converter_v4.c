@@ -1,3 +1,14 @@
+/*
+ * File name:   temperature_converter_v4.c
+ * Author:      Huy Luong Duc <huyluongme.cs@gmail.com>
+ * Date:        03-Jan-2025
+ *
+ * [SECOND EDITION] The C Programming Language
+ * by Brian W.Kernighan and Dennis M.Ritchie
+ *
+ * Sample code copied from the book
+ */
+
 #include <stdio.h>
 
 #define LOWER 0     /* lower limit of table */
